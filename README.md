@@ -203,25 +203,28 @@ HLT
 
 Upload the addition program execution screenshot here.
 
-![Addition Output](img/addition.png)
+<img width="1600" height="736" alt="WhatsApp Image 2026-11-17 at 4 25 07 PM" src="https://github.com/user-attachments/assets/ec58633a-a0de-4642-8a3b-5c301e74f8c6" />
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
 Upload the subtraction program execution screenshot here.
 
-![Subtraction Output](img/subtraction.png)
+<img width="1600" height="736" alt="WhatsApp Image 2026-11-17 at 4 26 41 PM" src="https://github.com/user-attachments/assets/139e490f-5094-49a9-8f70-f9ef2f25089d" />
+
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
 Upload the multiplication program execution screenshot here.
 
-![Multiplication Output](img/multiplication.png)
+<img width="1600" height="736" alt="WhatsApp Image 2026-11-17 at 4 30 08 PM" src="https://github.com/user-attachments/assets/688354fb-9d58-46ff-8e1d-992cff1a1062" />
+
 
 ### FIGURE-04: DIVISION OUTPUT
 
 Upload the division program execution screenshot here.
 
-![Division Output](img/division.png)
+<img width="1600" height="735" alt="WhatsApp Image 2026-11-17 at 4 29 28 PM" src="https://github.com/user-attachments/assets/f2200816-9a65-4fce-a50b-c427473661e0" />
+
 
 ## RESULT:
 
